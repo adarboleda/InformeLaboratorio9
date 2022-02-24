@@ -22,7 +22,7 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/155447178-a7fa5028-1c5c-4877-9274-ade295ce5b58.png)
 
-![image](https://user-images.githubusercontent.com/93734334/155448601-3f5126e0-05d0-41ba-8fd4-2a655486d961.png)
+![image](https://user-images.githubusercontent.com/93734334/155606213-a63f50eb-be5b-4875-88fa-8f2c4fd6a475.png)
 
 9.5.2 Transforme a su forma rectangular:
 
