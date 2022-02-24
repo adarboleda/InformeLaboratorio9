@@ -80,6 +80,8 @@ resultados.
 
 ![image](https://user-images.githubusercontent.com/93734334/155453538-f323dc40-eec2-4701-b079-66d34fec9fae.png)
 
+* Los valores hallados con la calculadora son los mismos encontrados de la otra manera
+
 5. VIDEO
 
 6. CONCLUSIONES
