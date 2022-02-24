@@ -43,6 +43,8 @@ forma rectangular como en su forma polar.
 
 **(c)**
 
+![image](https://user-images.githubusercontent.com/93734334/155464170-7ccc3e34-d079-4760-ab36-90f422f739a5.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
