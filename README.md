@@ -26,6 +26,8 @@ Objetivos Específicos:
 
 9.5.2 Transforme a su forma rectangular:
 
+![image](https://user-images.githubusercontent.com/93734334/155452142-b9bc24f3-9238-4cce-9ab8-2d90ba36db0f.png)
+
 9.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
