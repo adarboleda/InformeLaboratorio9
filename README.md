@@ -36,6 +36,36 @@ forma rectangular como en su forma polar.
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
+**(a)**
+
+* Forma Rectangular
+
+![image](https://user-images.githubusercontent.com/93734334/155452796-0b3f7242-cc2d-42cd-b40d-4a4abf1f61c6.png)
+
+* Forma Polar
+
+![image](https://user-images.githubusercontent.com/93734334/155452941-e749ac5d-a486-43f6-adf2-73b159844fae.png)
+
+**(b)**
+
+* Forma Rectangular
+
+![image](https://user-images.githubusercontent.com/93734334/155453297-94dcf084-fece-4207-a984-45610aeb3ea8.png)
+
+* Forma Polar
+
+![image](https://user-images.githubusercontent.com/93734334/155453364-2835a0ed-4097-4035-8900-4ba4e22c913e.png)
+
+**(c)**
+
+* Forma Rectangular
+
+![image](https://user-images.githubusercontent.com/93734334/155453500-230ffaf7-1d78-4c03-ae93-82a981403acb.png)
+
+* Forma Polar
+
+![image](https://user-images.githubusercontent.com/93734334/155453538-f323dc40-eec2-4701-b079-66d34fec9fae.png)
+
 5. VIDEO
 
 6. CONCLUSIONES
