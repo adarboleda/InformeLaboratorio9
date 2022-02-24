@@ -16,7 +16,7 @@ Objetivos Específicos:
 
 9.5.1. Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/93734334/155441948-0255aadf-3d77-43b8-b4f9-5a9ef7eddf14.png)
+![image](https://user-images.githubusercontent.com/93734334/155607989-149107ec-e21b-4933-8e68-038bfdd18650.png)
 
 ![image](https://user-images.githubusercontent.com/93734334/155606791-cf70d016-f2ff-406d-aa58-6d63aeac873e.png)
 
