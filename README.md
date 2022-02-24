@@ -33,9 +33,9 @@ forma rectangular como en su forma polar.
 
 **(a)**
 
-![image](https://user-images.githubusercontent.com/93734334/155456060-c9290503-d92f-454f-a11c-bffd8f37e7d8.png)
+![image](https://user-images.githubusercontent.com/93734334/155605769-507fd8ff-9f32-471b-aeaf-020364a92cdf.png)
 
-![image](https://user-images.githubusercontent.com/93734334/155456959-f5f81ce1-5761-4f77-bfce-75aab58d3883.png)
+![image](https://user-images.githubusercontent.com/93734334/155605829-0bbc136d-1c40-4aee-b398-7326c3a7c20c.png)
 
 **(b)**
 
