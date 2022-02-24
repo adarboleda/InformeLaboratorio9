@@ -31,6 +31,12 @@ Objetivos Específicos:
 9.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
+**(a)**
+
+![image](https://user-images.githubusercontent.com/93734334/155456060-c9290503-d92f-454f-a11c-bffd8f37e7d8.png)
+
+![image](https://user-images.githubusercontent.com/93734334/155456959-f5f81ce1-5761-4f77-bfce-75aab58d3883.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
