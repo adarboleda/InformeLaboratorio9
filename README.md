@@ -16,6 +16,14 @@ Objetivos Específicos:
 
 9.5.1. Transforme a su forma polar:
 
+![image](https://user-images.githubusercontent.com/93734334/155441948-0255aadf-3d77-43b8-b4f9-5a9ef7eddf14.png)
+
+![image](https://user-images.githubusercontent.com/93734334/155446386-c56c3b12-6ce2-47ec-bfd8-735775b2159c.png)
+
+![image](https://user-images.githubusercontent.com/93734334/155447178-a7fa5028-1c5c-4877-9274-ade295ce5b58.png)
+
+![image](https://user-images.githubusercontent.com/93734334/155448601-3f5126e0-05d0-41ba-8fd4-2a655486d961.png)
+
 9.5.2 Transforme a su forma rectangular:
 
 9.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
