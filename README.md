@@ -37,6 +37,12 @@ forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/93734334/155456959-f5f81ce1-5761-4f77-bfce-75aab58d3883.png)
 
+**(b)**
+
+![image](https://user-images.githubusercontent.com/93734334/155460931-e3005f07-2851-4dad-b8a5-c69402958568.png)
+
+**(c)**
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
