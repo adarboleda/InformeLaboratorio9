@@ -4,7 +4,13 @@
 
 Objetivo General:
 
+* Realizar las operaciones tanto aritméticas como algebraicas en base a los numero complejos para su forma polar y rectangular, mediante el desarrollo de los ejercicios propuestos. 
+
 Objetivos Específicos:  
+
+* Explicar el concepto fundamental de los fasores en su forma rectangular y polar, asimismo su representación gráfica.
+
+* Resolver los ejercicios propuestos por el docente con la ayuda de una calculadora científica para poder comprobar los valores obtenidos de forma teórica. 
 
 2. MARCO TEÓRICO 
 
