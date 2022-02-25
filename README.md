@@ -100,6 +100,11 @@ https://youtu.be/2_chIivzjoY
 
 7. BIBLIOGRAFÍA
 
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
+https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+Valencia, M. V. (22 de julio de 2020). NÚMEROS COMPLEJOS Y FASORES. Obtenido de https://tableroalparque.weebly.com/uploads/5/1/6/9/51696511/senoides_n%C3%9Ameros_complejos_y_fasores.pdf
+
 RUBRICA
 
 ![](https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png)
